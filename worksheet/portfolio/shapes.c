@@ -1,3 +1,7 @@
+/*
+Name: Luka Kamidzorac
+Student ID: 201914015
+*/
 #include <stdbool.h>
 #include <math.h>
 
